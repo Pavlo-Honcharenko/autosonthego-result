@@ -2386,6 +2386,8 @@ body::after {
   .welcome__main-image {
     width: 100%;
     padding-bottom: 5rem;
+    display: flex;
+    justify-content: center;
   }
   .welcome__main-image img {
     margin: 0 auto;
